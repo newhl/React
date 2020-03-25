@@ -1,0 +1,7 @@
+.am-tabs-tab-bar-wrap .am-tab-bar-bar {
+    position: fixed;
+    bottom: 0;
+}
+.home .am-tab-bar {
+    height: 0;
+}

@@ -1,0 +1,13 @@
+.nav {
+    padding: 10px 0;
+}
+.am-flexbox-item {
+    text-align: center;
+}
+.am-flexbox-item img {
+    width: 48px;
+}
+.am-flexbox-item h3 {
+    margin-top: 7px;
+    font-size: 13px;
+}
